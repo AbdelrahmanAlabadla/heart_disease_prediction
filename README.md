@@ -8,6 +8,7 @@
 **End-to-end ML project** | Decision Tree with hyperparameter tuning + pruning + interactive prediction  
 Built by **Abdelrahman Alabadla** • Dec 2025
 
+**Email: abdelrahmanalabadla@gmail.com**
 ---
 
 ## 🚀 Project Overview
